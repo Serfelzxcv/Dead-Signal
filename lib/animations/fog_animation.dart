@@ -1,7 +1,7 @@
 import 'package:dead_signal/pages/on_loading.dart';
 import 'package:flutter/material.dart';
 import 'dart:ui';
-import 'package:flutter/widgets.dart'; // Necesario para navegar
+// Necesario para navegar
 
 class FogAnimation extends StatefulWidget {
   final Widget child;
